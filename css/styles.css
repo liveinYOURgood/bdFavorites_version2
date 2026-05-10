@@ -1,0 +1,805 @@
+/* for desktop */
+
+
+    /*favorites of BD webpage */
+
+
+
+@media screen and (min-width:1024px) {
+
+    /*index page only */
+
+    /*nav bar section only start */
+
+    .navbar {
+      padding-bottom: 1.5rem;
+      
+      }
+      
+      .nav-item {
+      padding: 0 10px;
+      
+      
+      }
+      
+      .nav-link{
+      font-size: 35px;
+      
+      }
+      
+      .navbar-brand {
+      font-family: "Ubuntu";
+      font-size: 2.5rem;
+      font-weight: bold;
+      padding-left: 50px;
+      
+      }
+
+          /*nav bar section only end */
+
+          
+
+          .player-textTOP {
+
+            font-family:Verdana, Geneva, Tahoma, sans-serif;
+            color: black;
+            font-size: 22px;
+            line-height: 33px;
+            padding-left: 80px;
+            padding-right: 80px;
+            padding-top: 50px;
+            padding-bottom: 50px;
+            text-align: left;
+          }
+
+.rolltidelogo {
+
+  width: 50%;
+  height: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding-top: 50px;
+}
+
+.welcome{
+
+  text-align: center;
+  font-family: "Ubuntu";
+  font-size: 55px;
+
+}
+
+#features{
+
+  padding:7% 15%;
+  background-color: yellow;
+  position: relative;
+
+}
+
+.HeaderTrueLove{
+
+  text-align: center;
+}
+
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: white;
+
+
+  }
+
+  #testimonials2 {
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    gap: 30px;
+
+    justify-content: space-evenly;
+
+
+
+
+  }
+
+  .player-image{
+
+    margin-top: 35px;
+    margin-bottom: 50px;
+
+    height:50%;
+    width: 50%;
+
+    justify-content: space-evenly;
+
+
+
+
+  
+
+  }
+
+
+
+.player-title {
+
+  height: 50%;
+  width: 50%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 50px;
+
+
+
+
+}
+
+  .stadium {
+
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: none;
+
+  }
+
+  .desktopstadium{
+
+    height: 40%;
+    width: 40%;
+    position: relative;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+
+  .meetplayers{
+
+    padding-top: 25px;
+    padding-bottom: 35px;
+    font-size: 60px;
+
+    padding-left: 30px;
+    padding-right: 30px;
+
+    color: white;
+    font-family: "Ubuntu";
+    display: none;
+  }
+
+  .meetplayersdesk{
+
+    padding-top: 155px;
+    padding-bottom: 155px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 55px;
+    color: black;
+    font-family: "Ubuntu";
+
+    background-color: beige;
+
+  }
+
+
+
+  .pro {
+
+    color: red;
+  }
+
+      /*desktop version  */
+
+
+
+
+  .allforone {
+
+    height: 70%;
+    width: 70%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 70%;
+    padding-bottom: 50px;
+    display: none;
+
+
+
+  }
+
+
+  
+
+  
+
+
+  /*footer section */
+
+
+  .footer3 {
+
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    background-color: yellow;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+
+}
+
+  /*players pages */
+
+  
+
+
+  .player-image2{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30%;
+    width: 30%;
+
+
+  
+
+  }
+
+  .playersTitlename{
+
+    font-family: 'Allerta Stencil', sans-serif;
+    font-size: 75px;
+    line-height: 1.5;
+    font-weight: 900;
+    padding-left: 50px;
+  
+
+
+  }
+
+  .football {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 75px;
+    height:30%;
+    width:30%;
+    display: none;
+
+
+  }
+
+  .player-text {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 25px;
+    line-height: 32px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+
+
+
+  .namelocation{
+
+    font-size: 52px;
+    line-height: 1.5;
+    width:100%;
+    text-align: center;
+    color: white;
+    padding-bottom: 50px;
+  }
+
+  .picture {
+
+    height: 50%;
+    width: 50%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: block;
+  }
+
+
+
+/* for tablet */
+
+
+@media screen and (min-width:769px) and (max-width: 1023px) {
+
+  #testimonials2 {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: beige;
+
+
+  }
+
+  .player-text {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 90%;
+    line-height: 126%;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    padding-bottom: 50px;
+  }
+
+  .player-textTOP {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 45px;
+    line-height: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+
+      /*nav bar section only start */
+
+    .navbar {
+      padding-bottom: 1.5rem;
+      
+      }
+      
+      .nav-item {
+      padding: 0 10px;
+      
+      
+      }
+      
+      .nav-link{
+      font-size: 35px;
+      
+      }
+      
+      .navbar-brand {
+      font-family: "Ubuntu";
+      font-size: 2.5rem;
+      font-weight: bold;
+      padding-left: 50px;
+      
+      }
+
+      .rolltidelogo {
+
+        width: 100%;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+
+        padding-top: 65px;
+
+      }
+
+          /*nav bar section only end */
+
+          .desktopstadium{
+
+            height: 70%;
+            width: 70%;
+            position: relative;
+            background-size: 70%;
+            background-repeat: no-repeat;
+            padding-top: 60px;
+            padding-bottom: 60px;
+            display: none;
+          }
+
+          .stadium {
+
+            height: 100%;
+            width: 100%;
+            position: relative;
+            background-repeat: no-repeat;
+            background-size: 100%;
+            
+          }
+
+  .player-image{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 45px;
+    height:70%;
+    width:70%;
+  
+
+  }
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: yellow;
+
+
+  }
+
+  #AllForOneBlock {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+
+
+  }
+
+  .meetplayers{
+
+    padding-top: 125px;
+    padding-bottom: 135px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+    font-size: 60px;
+    color: black;
+    font-family: "Ubuntu";
+
+}
+
+.meetplayersdesk{
+
+  padding-top: 155px;
+  padding-bottom: 155px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 55px;
+  color: black;
+  font-family: "Ubuntu";
+  display: none;
+  background-color: beige;
+
+
+}
+
+.football {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 25px;
+  padding-bottom: 75px;
+  height:30%;
+  width:30%;
+
+}
+
+.welcome{
+
+  text-align: center;
+  font-family: "Ubuntu";
+  font-size: 65px;
+
+}
+
+#features{
+
+  padding:7% 15%;
+  background-color: yellow;
+  position: relative;
+
+}
+
+}
+
+
+
+      .picture {
+
+        height: 50%;
+        width: 50%;
+        position: relative;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+
+      }
+    
+      .allforone {
+    
+        height: 70%;
+        width: 70%;
+        position: relative;
+        background-repeat: no-repeat;
+        background-size: 70%;
+        display: none;
+    
+    
+    
+      }
+
+.player-title {
+
+  height: 60%;
+  width: 60%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 50px;
+
+
+
+}
+
+.footer3 {
+
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  background-color: #FFC20E;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.pro {
+
+  color: red;
+}
+
+
+
+/* for mobile */
+
+@media screen and (min-width:180px) and (max-width: 768px) {
+
+  #testimonials2 {
+
+    font-size: 38px;
+    width: 100%;
+    text-align: center;
+    background-color: beige;
+
+
+  }
+
+  .player-textTOP {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 45px;
+    line-height: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+
+  .pro {
+
+    color: red;
+  }
+
+  .rolltidelogo {
+
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+
+    padding-top: 50px;
+
+  }
+
+
+  .player-image{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+    padding-bottom: 45px;
+    height:70%;
+    width:70%;
+  
+
+  }
+
+
+.player-title {
+
+  height: 60%;
+  width: 60%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-top: 50px;
+
+
+
+}
+
+
+
+
+  #testimonials {
+
+    font-size: 52px;
+    width: 100%;
+    text-align: center;
+    background-color: yellow;
+
+
+  }
+
+
+
+  .desktopstadium{
+
+    height: 70%;
+    width: 70%;
+    position: relative;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: none;
+  }
+
+  .stadium {
+
+    height: 100%;
+    width: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  }
+
+  .meetplayers{
+
+    padding-top: 125px;
+    padding-bottom: 135px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+
+    font-size: 60px;
+    color: black;
+    font-family: "Ubuntu";
+  }
+
+.meetplayersdesk{
+
+  padding-top: 155px;
+  padding-bottom: 155px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 55px;
+  color: black;
+  font-family: "Ubuntu";
+  display: none;
+
+}
+
+.football {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 25px;
+  padding-bottom: 75px;
+  height:30%;
+  width:30%;
+
+}
+
+
+.welcome{
+
+  text-align: center;
+  font-family: "Ubuntu";
+  font-size: 35px;
+  background-color: yellow;
+
+  padding-top: 150px;
+  padding-bottom: 150px;
+
+
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding-left: 50px;
+  
+  }
+
+  .player-text {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 120%;
+    line-height: 126%;
+    padding-left: 30px;
+    padding-right: 30px;
+
+    padding-bottom: 50px;
+  }
+
+
+  hr {
+
+    color: white;
+
+  }
+
+
+
+      /*mobile version for picture and allforone steelers logo only */
+
+
+      .picture {
+
+        height: 100%;
+        width: 100%;
+        position: relative;
+        background-repeat: no-repeat;
+        background-size: 100%;
+        display: block;
+
+      }
+    
+      .allforone {
+    
+        height: 70%;
+        width: 70%;
+        position: relative;
+        background-repeat: no-repeat;
+        background-size: 70%;
+        display: none;
+    
+    
+    
+      }
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
